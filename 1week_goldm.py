@@ -1,0 +1,6 @@
+print ("Calculadora de multiplicações")
+print ("Primeiro número?")
+a =int(input())
+print ("Segundo número?")
+b =int(input())
+print (a*b)
